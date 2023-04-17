@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+.pstTime .destinationTime {
+    display: flex;
+}
+.pstTime {
+    color:orange;
+    display: inline-block;
+}
+.destinationTime {
+    color:green;
+    display: inline-block;
+}
+body p {
+    background-color: black;
+    color:white;
+}
+.dmt {
+    background-color: grey;
+    border: black;
+}
